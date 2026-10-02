@@ -1,5 +1,5 @@
 #include <iostream>
-using namespace std;
+using namespace std;/
 class myString {
 private:
 	char str[200];
